@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_product_filter/static/css/main.bda76bf1.css",
+    "main.js": "/react_product_filter/static/js/main.05d0db30.js",
+    "static/media/lenouvo.png": "/react_product_filter/static/media/lenouvo.253f8a245788c24c6080.png",
+    "static/media/shopping-bag.png": "/react_product_filter/static/media/shopping-bag.42d9f43c145ea2f44eb3.png",
+    "index.html": "/react_product_filter/index.html",
+    "main.bda76bf1.css.map": "/react_product_filter/static/css/main.bda76bf1.css.map",
+    "main.05d0db30.js.map": "/react_product_filter/static/js/main.05d0db30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda76bf1.css",
+    "static/js/main.05d0db30.js"
+  ]
+}
